@@ -1,0 +1,17 @@
+Authors: Zack Watters, Christopher Seguin-Bianchi, Stanley Choo
+
+Abstract:
+For this lab, the goal of our group was to design, simulate, implement, and verify a simple RISC
+Computer (Mini SRC) with the use of Quartus II (Verilog coding) and ModelSim-Altera (simulations). The
+computer would consist of a simple RISC processor, memory, and I/O. There were four phases to this
+project, with each phase implementing a new component to the system or testing them. In phase 1, the
+focus was to create the required logic and simulating instructions such as add, sub, mul, div, and, etc., to
+design and functionally simulate a component of a Mini SRC datapath. Phase 2’s objective was to finish
+the Mini SRC datapath, which involved developing the Select & Encode logic, Memory subsystem, CON
+FF logic, Input/Ouput ports, and as well as instructions for different methods to be used. As the datapath
+portion of the Mini SRC has been designed and simulated to test its functionality at this point, Phase 3
+involves implementing and testing the Control Unit in Mini SRC. Finally, Phase 4 involves executing and
+testing the functionality of the basic RISC computer which was created from Phase 1 to 3. This would be
+done using a Cyclone III chip of a DEO evaluation board or a Cyclone V chip of the DEO-CV evaluation
+board. After setting the project’s timeline, Verilog was chosen to be the language to use in Quartus II as
+it seemed to be a better fit for the group compared to VHDL.
