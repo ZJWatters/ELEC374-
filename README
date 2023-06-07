@@ -19,4 +19,4 @@ it seemed to be a better fit for the group compared to VHDL.
 Contents:
 .v files are verilog code files
 tb.v files are testbenches used to verify components worked as intended
-Images are the results of ModelSim-Altera simulations
+Images in 'CPU Design Flow Images' file were provided by the course
