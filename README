@@ -1,7 +1,7 @@
 Authors: Zack Watters, Christopher Seguin-Bianchi, Stanley Choo
 
 Abstract:
-For this lab, the goal of our group was to design, simulate, implement, and verify a simple RISC
+For this lab, the goal of our group was to design, implement, simulate and verify a simple RISC
 Computer (Mini SRC) with the use of Quartus II (Verilog coding) and ModelSim-Altera (simulations). The
 computer would consist of a simple RISC processor, memory, and I/O. There were four phases to this
 project, with each phase implementing a new component to the system or testing them. In phase 1, the
